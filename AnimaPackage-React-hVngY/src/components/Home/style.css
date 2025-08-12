@@ -1,0 +1,1640 @@
+.home {
+  background-color: var(--background);
+  height: 8268px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.home .footer {
+  height: 460px;
+  left: 100px;
+  position: absolute;
+  top: 7738px;
+  width: 1268px;
+}
+
+.home .overlap {
+  background-color: var(--primary);
+  border-radius: 50px;
+  height: 460px;
+  left: 620px;
+  position: absolute;
+  top: 0;
+  width: 620px;
+}
+
+.home .illustration {
+  aspect-ratio: 0.94;
+  height: 244px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 228px;
+}
+
+.home .button-instance {
+  display: flex !important;
+  justify-content: center !important;
+  left: 70px !important;
+  position: absolute !important;
+  top: 337px !important;
+  width: 480px !important;
+}
+
+.home .design-component-instance-node {
+  background-color: var(--background) !important;
+}
+
+.home .button-2 {
+  color: var(--primary) !important;
+}
+
+.home .div {
+  color: var(--background);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 44px;
+  font-weight: 700;
+  height: 212px;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 295px;
+}
+
+.home .overlap-group {
+  background-color: var(--background);
+  border-radius: 50px;
+  height: 460px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.home .text-wrapper-2 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-3 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 128px;
+}
+
+.home .text-wrapper-4 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 170px;
+}
+
+.home .you-tube {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 212px;
+}
+
+.home .linked-in {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 254px;
+}
+
+.home .terms-of-use {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 385px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 128px;
+}
+
+.home .text-wrapper-5 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 385px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 170px;
+}
+
+.home .element-solus-all {
+  color: var(--border);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 374px;
+}
+
+.home .text-wrapper-6 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 128px;
+}
+
+.home .text-wrapper-7 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 170px;
+}
+
+.home .text-wrapper-8 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 212px;
+}
+
+.home .text-wrapper-9 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 254px;
+}
+
+.home .text-wrapper-10 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 296px;
+}
+
+.home .contacts {
+  height: 956px;
+  left: 100px;
+  position: absolute;
+  top: 6662px;
+  width: 1266px;
+}
+
+.home .text-wrapper-11 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 52px;
+  font-weight: 700;
+  height: 124px;
+  left: 400px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: 440px;
+}
+
+.home .p {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 339px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 181px;
+  width: 563px;
+}
+
+.home .get-in-touch {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 570px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.home .overlap-2 {
+  background-color: var(--background);
+  border-radius: 50px;
+  height: 627px;
+  left: 0;
+  position: absolute;
+  top: 329px;
+  width: 1240px;
+}
+
+.home .text-wrapper-12 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  height: 36px;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+  width: 247px;
+}
+
+.home .text-wrapper-13 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  height: 36px;
+  left: 670px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.home .email-support-solus {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 153px;
+  white-space: nowrap;
+}
+
+.home .span {
+  font-weight: 700;
+  letter-spacing: 0.10px;
+}
+
+.home .text-wrapper-14 {
+  letter-spacing: 0.10px;
+}
+
+.home .text-wrapper-15 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 523px;
+  white-space: nowrap;
+}
+
+.home .phone {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 202px;
+  white-space: nowrap;
+}
+
+.home .address-wellness {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 251px;
+  white-space: nowrap;
+}
+
+.home .overlap-group-2 {
+  background-color: var(--background);
+  border-radius: 50px;
+  height: 401px;
+  left: 620px;
+  position: absolute;
+  top: 156px;
+  width: 550px;
+}
+
+.home .text-wrapper-16 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-17 {
+  color: var(--border);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-18 {
+  color: var(--border);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 198px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-19 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 134px;
+  white-space: nowrap;
+}
+
+.home .button-3 {
+  display: flex !important;
+  justify-content: center !important;
+  left: 50px !important;
+  position: absolute !important;
+  top: 287px !important;
+  width: 450px !important;
+}
+
+.home .button-4 {
+  background-color: var(--navy) !important;
+}
+
+.home .button-5 {
+  color: var(--background) !important;
+}
+
+.home .line {
+  height: 1px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 450px;
+}
+
+.home .img {
+  height: 1px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 450px;
+}
+
+.home .vector {
+  aspect-ratio: 1;
+  height: 24px;
+  left: 70px;
+  position: absolute;
+  top: 326px;
+  width: 24px;
+}
+
+.home .vector-2 {
+  aspect-ratio: 1;
+  height: 24px;
+  left: 114px;
+  position: absolute;
+  top: 326px;
+  width: 24px;
+}
+
+.home .vector-3 {
+  aspect-ratio: 1;
+  height: 24px;
+  left: 158px;
+  position: absolute;
+  top: 326px;
+  width: 24px;
+}
+
+.home .vector-4 {
+  aspect-ratio: 1.03;
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 326px;
+  width: 25px;
+}
+
+.home .FAQ {
+  height: 975px;
+  left: 100px;
+  position: absolute;
+  top: 5537px;
+  width: 1258px;
+}
+
+.home .text-wrapper-20 {
+  color: var(--primary);
+  font-family: var(--h-font-family);
+  font-size: var(--h-font-size);
+  font-style: var(--h-font-style);
+  font-weight: var(--h-font-weight);
+  height: 124px;
+  left: 50px;
+  letter-spacing: var(--h-letter-spacing);
+  line-height: var(--h-line-height);
+  position: absolute;
+  top: 57px;
+  width: 440px;
+}
+
+.home .text-wrapper-21 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 221px;
+  width: 476px;
+}
+
+.home .text-wrapper-22 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home .overlap-3 {
+  background-color: var(--background);
+  border-radius: 30px;
+  height: 92px;
+  left: 620px;
+  position: absolute;
+  top: 221px;
+  width: 620px;
+}
+
+.home .group {
+  background-color: var(--surface);
+  border-radius: 21px;
+  height: 42px;
+  left: 539px;
+  position: absolute;
+  top: 25px;
+  width: 42px;
+}
+
+.home .img-2 {
+  height: 18px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.home .text-wrapper-23 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 29px;
+  width: 476px;
+}
+
+.home .overlap-4 {
+  background-color: var(--background);
+  border-radius: 30px;
+  height: 92px;
+  left: 620px;
+  position: absolute;
+  top: 333px;
+  width: 620px;
+}
+
+.home .overlap-5 {
+  background-color: var(--background);
+  border-radius: 30px;
+  height: 126px;
+  left: 620px;
+  position: absolute;
+  top: 445px;
+  width: 620px;
+}
+
+.home .img-wrapper {
+  background-color: var(--surface);
+  border-radius: 21px;
+  height: 42px;
+  left: 539px;
+  position: absolute;
+  top: 42px;
+  width: 42px;
+}
+
+.home .overlap-6 {
+  background-color: var(--background);
+  border-radius: 30px;
+  height: 126px;
+  left: 620px;
+  position: absolute;
+  top: 703px;
+  width: 620px;
+}
+
+.home .overlap-7 {
+  background-color: var(--background);
+  border-radius: 30px;
+  height: 92px;
+  left: 620px;
+  position: absolute;
+  top: 591px;
+  width: 620px;
+}
+
+.home .overlap-8 {
+  background-color: var(--background);
+  border-radius: 30px;
+  height: 126px;
+  left: 620px;
+  position: absolute;
+  top: 849px;
+  width: 620px;
+}
+
+.home .overlap-group-wrapper {
+  border-radius: 60px;
+  height: 602px;
+  left: 0;
+  position: absolute;
+  top: 373px;
+  width: 570px;
+}
+
+.home .overlap-group-3 {
+  height: 574px;
+  position: relative;
+  top: 28px;
+}
+
+.home .rectangle-2 {
+  background-color: var(--sky);
+  border-radius: 60px;
+  height: 385px;
+  left: 0;
+  position: absolute;
+  top: 189px;
+  width: 570px;
+}
+
+.home .illustration-2 {
+  aspect-ratio: 0.66;
+  height: 574px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.home .community {
+  height: 587px;
+  left: 100px;
+  position: absolute;
+  top: 4800px;
+  width: 1246px;
+}
+
+.home .overlap-9 {
+  background-color: var(--background);
+  border-radius: 59px;
+  height: 587px;
+  position: relative;
+  width: 1240px;
+}
+
+.home .overlap-10 {
+  height: 460px;
+  left: 60px;
+  position: absolute;
+  top: 127px;
+  width: 1180px;
+}
+
+.home .overlap-group-4 {
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 1180px;
+}
+
+.home .illustration-3 {
+  aspect-ratio: 1.61;
+  height: 443px;
+  left: 468px;
+  position: absolute;
+  top: 0;
+  width: 712px;
+}
+
+.home .text-wrapper-24 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 147px;
+  width: 476px;
+}
+
+.home .text-wrapper-25 {
+  color: var(--primary);
+  font-family: var(--h-font-family);
+  font-size: var(--h-font-size);
+  font-style: var(--h-font-style);
+  font-weight: var(--h-font-weight);
+  height: 124px;
+  left: 0;
+  letter-spacing: var(--h-letter-spacing);
+  line-height: var(--h-line-height);
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.home .button-6 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 316px !important;
+}
+
+.home .button-7 {
+  background-color: var(--primary) !important;
+}
+
+.home .text-wrapper-26 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+}
+
+.home .resources {
+  height: 733px;
+  left: 100px;
+  position: absolute;
+  top: 3927px;
+  width: 1247px;
+}
+
+.home .text-wrapper-27 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 382px;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 181px;
+  width: 476px;
+}
+
+.home .EXPLORE-LEARN {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 555px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.home .resource {
+  height: 404px;
+  left: 0;
+  position: absolute;
+  top: 329px;
+  width: 391px;
+}
+
+.home .overlap-group-5 {
+  background-color: var(--background);
+  border-radius: 59px;
+  height: 404px;
+  position: relative;
+  width: 387px;
+}
+
+.home .articles-guides {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  height: 72px;
+  left: 70px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 247px;
+}
+
+.home .text-wrapper-28 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 152px;
+  width: 307px;
+}
+
+.home .button-8 {
+  left: 116px !important;
+  position: absolute !important;
+  top: 290px !important;
+}
+
+.home .button-9 {
+  background-color: var(--accent) !important;
+}
+
+.home .overlap-wrapper {
+  height: 404px;
+  left: 427px;
+  position: absolute;
+  top: 329px;
+  width: 391px;
+}
+
+.home .text-wrapper-29 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  height: 72px;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 287px;
+}
+
+.home .div-wrapper {
+  height: 404px;
+  left: 854px;
+  position: absolute;
+  top: 329px;
+  width: 391px;
+}
+
+.home .button-10 {
+  background-color: var(--sky) !important;
+}
+
+.home .testimonials {
+  height: 427px;
+  left: 150px;
+  position: absolute;
+  top: 3072px;
+  width: 1422px;
+}
+
+.home .text-wrapper-30 {
+  color: var(--primary);
+  font-family: var(--h-font-family);
+  font-size: var(--h-font-size);
+  font-style: var(--h-font-style);
+  font-weight: var(--h-font-weight);
+  height: 124px;
+  left: 0;
+  letter-spacing: var(--h-letter-spacing);
+  line-height: var(--h-line-height);
+  position: absolute;
+  top: 57px;
+  width: 440px;
+}
+
+.home .text-wrapper-31 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.50px;
+  line-height: 34px;
+  position: absolute;
+  top: 221px;
+  width: 476px;
+}
+
+.home .text-wrapper-32 {
+  color: var(--navy);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home .testimonial {
+  height: 393px;
+  left: 590px;
+  position: absolute;
+  top: 34px;
+  width: 397px;
+}
+
+.home .overlap-group-6 {
+  background-color: var(--sky);
+  border-radius: 60px;
+  height: 393px;
+  position: relative;
+  width: 393px;
+}
+
+.home .solus-made-it-so {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 65px;
+  width: 293px;
+}
+
+.home .text-wrapper-33 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 307px;
+  width: 256px;
+}
+
+.home .testimonial-2 {
+  height: 393px;
+  left: 1023px;
+  position: absolute;
+  top: 34px;
+  width: 397px;
+}
+
+.home .overlap-11 {
+  background-color: var(--navy);
+  border-radius: 60px;
+  height: 393px;
+  position: relative;
+  width: 393px;
+}
+
+.home .i-was-struggling {
+  color: var(--background);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 61px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 65px;
+  width: 293px;
+}
+
+.home .text-wrapper-34 {
+  color: var(--background);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 61px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 307px;
+  width: 256px;
+}
+
+.home .arrow-right {
+  background-color: var(--primary);
+  border-radius: 27px;
+  height: 54px;
+  left: 74px;
+  position: absolute;
+  top: 373px;
+  width: 54px;
+}
+
+.home .arrow {
+  height: 14px;
+  left: 17px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.home .arrow-left {
+  background-color: var(--background);
+  border-radius: 27px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 373px;
+  transform: rotate(180deg);
+  width: 54px;
+}
+
+.home .arrow-2 {
+  height: 14px;
+  left: 17px;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-180deg);
+  width: 20px;
+}
+
+.home .services {
+  height: 1279px;
+  left: 100px;
+  position: absolute;
+  top: 1643px;
+  width: 1246px;
+}
+
+.home .text-wrapper-35 {
+  color: var(--navy);
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  height: 136px;
+  left: 400px;
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 440px;
+}
+
+.home .text-wrapper-36 {
+  color: var(--navy);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 382px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  text-align: center;
+  top: 181px;
+  width: 476px;
+}
+
+.home .text-wrapper-37 {
+  color: var(--navy);
+  font-family: var(--small-font-family);
+  font-size: var(--small-font-size);
+  font-style: var(--small-font-style);
+  font-weight: var(--small-font-weight);
+  left: 587px;
+  letter-spacing: var(--small-letter-spacing);
+  line-height: var(--small-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .service {
+  height: 455px;
+  left: 640px;
+  position: absolute;
+  top: 329px;
+  width: 604px;
+}
+
+.home .overlap-group-7 {
+  background-color: var(--background);
+  border-radius: 60px;
+  height: 455px;
+  position: relative;
+  width: 600px;
+}
+
+.home .button-11 {
+  background-color: var(--primary) !important;
+  border: 2px solid !important;
+  border-color: var(--focus-ring) !important;
+  border-radius: 999px !important;
+  height: 58px !important;
+  left: 58px !important;
+  position: absolute !important;
+  top: 317px !important;
+}
+
+.home .button-12 {
+  background-color: unset !important;
+  border: 2px solid !important;
+  border-color: var(--focus-ring) !important;
+  border-radius: 999px !important;
+  left: -1.04% !important;
+  top: -3.45% !important;
+}
+
+.home .button-13 {
+  color: var(--background) !important;
+  font-family: "Inter", Helvetica !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+  margin-top: unset !important;
+}
+
+.home .text-wrapper-38 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  height: 96px;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 283px;
+}
+
+.home .text-wrapper-39 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 206px;
+  width: 312px;
+}
+
+.home .service-2 {
+  height: 455px;
+  left: 0;
+  position: absolute;
+  top: 329px;
+  width: 604px;
+}
+
+.home .overlap-12 {
+  background-color: var(--sky);
+  border-radius: 60px;
+  height: 455px;
+  position: relative;
+  width: 600px;
+}
+
+.home .overlap-group-8 {
+  height: 322px;
+  left: 60px;
+  position: absolute;
+  top: 59px;
+  width: 487px;
+}
+
+.home .mindfulness {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  height: 96px;
+  left: 0;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 360px;
+}
+
+.home .text-wrapper-40 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 147px;
+  width: 295px;
+}
+
+.home .illustration-4 {
+  aspect-ratio: 0.71;
+  height: 322px;
+  left: 258px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 229px;
+}
+
+.home .button-14 {
+  left: 60px !important;
+  position: absolute !important;
+  top: 319px !important;
+}
+
+.home .button-15 {
+  background-color: unset !important;
+  border: 1px solid !important;
+  border-color: var(--primary) !important;
+}
+
+.home .service-3 {
+  height: 455px;
+  left: 0;
+  position: absolute;
+  top: 824px;
+  width: 1244px;
+}
+
+.home .overlap-13 {
+  border-radius: 60px;
+  height: 455px;
+  position: relative;
+  width: 1240px;
+}
+
+.home .illustration-wrapper {
+  background-color: var(--background);
+  border-radius: 60px;
+  height: 455px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1240px;
+}
+
+.home .illustration-5 {
+  aspect-ratio: 1.12;
+  height: 455px;
+  left: 725px;
+  position: absolute;
+  top: 0;
+  width: 510px;
+}
+
+.home .text-wrapper-41 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  height: 48px;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 515px;
+}
+
+.home .personalized {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.50px;
+  line-height: 26px;
+  position: absolute;
+  top: 158px;
+  width: 617px;
+}
+
+.home .button-16 {
+  left: 60px !important;
+  position: absolute !important;
+  top: 323px !important;
+}
+
+.home .intro {
+  height: 564px;
+  left: 150px;
+  position: absolute;
+  top: 929px;
+  width: 1140px;
+}
+
+.home .group-2 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 482px;
+}
+
+.home .text-wrapper-42 {
+  color: var(--navy);
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  height: 204px;
+  left: 0;
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  position: absolute;
+  top: 45px;
+  width: 440px;
+}
+
+.home .text-wrapper-43 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 0;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 277px;
+  width: 476px;
+}
+
+.home .text-wrapper-44 {
+  color: var(--navy);
+  font-family: var(--small-font-family);
+  font-size: var(--small-font-size);
+  font-style: var(--small-font-style);
+  font-weight: var(--small-font-weight);
+  left: 0;
+  letter-spacing: var(--small-letter-spacing);
+  line-height: var(--small-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .button-17 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 416px !important;
+}
+
+.home .frame-2 {
+  background-color: var(--primary);
+  border-radius: 60px;
+  height: 564px;
+  left: 590px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 550px;
+}
+
+.home .illustration-6 {
+  aspect-ratio: 0.84;
+  height: 493px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 416px;
+}
+
+.home .overlap-14 {
+  height: 789px;
+  left: 100px;
+  position: absolute;
+  top: 40px;
+  width: 1240px;
+}
+
+.home .hero {
+  background-color: var(--sky);
+  border-radius: 70px;
+  height: 668px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 121px;
+  width: 1240px;
+}
+
+.home .overlap-15 {
+  height: 726px;
+  left: -47px;
+  position: absolute;
+  top: 0;
+  width: 1286px;
+}
+
+.home .illustration-7 {
+  aspect-ratio: 0.62;
+  height: 618px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 108px;
+  width: 380px;
+}
+
+.home .illustration-8 {
+  aspect-ratio: 0.61;
+  height: 668px;
+  left: 880px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.home .text-wrapper-45 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 385px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 564px;
+}
+
+.home .text-wrapper-46 {
+  color: var(--navy);
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  left: 347px;
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  position: absolute;
+  text-align: center;
+  top: 169px;
+  width: 640px;
+}
+
+.home .button-18 {
+  background-color: var(--primaryhover) !important;
+  left: 523px !important;
+  position: absolute !important;
+  top: 456px !important;
+}
+
+.home .header {
+  align-items: center;
+  background-color: var(--background);
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  left: 5px;
+  padding: 16px 24px;
+  position: absolute;
+  top: 0;
+  width: 1231px;
+}
+
+.home .navigation {
+  height: 91px;
+  margin-left: -24.00px;
+  margin-right: -38.00px;
+  position: relative;
+  width: 1245px;
+}
+
+.home .text-wrapper-47 {
+  color: var(--primary);
+  font-family: "Bricolage Grotesque", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  height: 91px;
+  left: 551px;
+  letter-spacing: 0.50px;
+  line-height: 91px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-48 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 0;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-49 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 121px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-50 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 244px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-51 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 843px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-52 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 1006px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-53 {
+  color: var(--text);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 1170px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
